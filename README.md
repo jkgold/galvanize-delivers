@@ -10,7 +10,7 @@ Though you're free to style the page however you want, the page should look some
 
 More specifically, the page should allow a user to do the following.
 
-1. Click links to both the landing and ordering pages that are left and right aligned respectively in a fixed navbar.
+1. Click links to both the landinwwg and ordering pages that are left and right aligned respectively in a fixed navbar.
 1. Read the service's tagline and click a call-to-action that's _roughly_ centered over a hero image in the header.
 1. Read the service's marketing copy in a three-column main section.
 1. Read the service's name and tagline as well as click links to both pages in a two-column footer.
