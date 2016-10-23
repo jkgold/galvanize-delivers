@@ -5,8 +5,18 @@ $(document).ready(function(){
     $("a").on('click',function(event) {
   var $target = $(event.target);
 var $test = 'Jason';
-// var $oppCheck = $target.attr("class");
-$("tbody").append($test);
+var $addToOrder = $target.attr(".card-content")
+var $oppCheck = $target.attr("class");
+$("#sub").append($test);
+$('a').on('click',(function(event) {
+   $('#myTable tbody').append('<tr class=".card-content"><td>"name", "price"</td></tr>');
+});
+
   });
 
+  // });
+  function addToOrder (name, price){
+    td.text(name);
+    td.text(price)
+  // });
   });
